@@ -1,0 +1,21 @@
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+.venv/
+.env
+.env.*
+dist/
+build/
+
+# Backups
+backups/
+*.tar.gz
+*.zip
+
+# OS files
+.DS_Store
+Thumbs.db
